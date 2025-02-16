@@ -1,4 +1,4 @@
-<img src="banner.png"/>
+<img src="github-header-image.png"/>
 
 I am data scientist with interests in emerging AI technologies. I love to explore and implement these new technologies for the betterment of humanity. Currently, I am working on the data analytics.
 
