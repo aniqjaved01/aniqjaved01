@@ -3,6 +3,7 @@
 I am data scientist with interests in emerging AI technologies. I love to explore and implement these new technologies for the betterment of humanity. Currently, I am working on the data analytics.
 
 <p>Connect with me on ✅<a href="https://www.linkedin.com/in/aniq-javed/">LinkedIn</a></p>
+<p>Link to my previous account <a href="https://github.com/AniqJaved">Github</a></p>
 
 <h2>Technology Stack</h2>
 <p align="left">
