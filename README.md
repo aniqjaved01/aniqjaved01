@@ -1,5 +1,3 @@
-<img src="github-header-image.png"/>
-
 I am full stack engineer with interests in emerging AI technologies. I love to explore and implement these new technologies for the betterment of humanity. Currently, I am working on the MERN stack.
 
 <p>Connect with me on ✅<a href="https://www.linkedin.com/in/aniq-javed/">LinkedIn</a></p>
